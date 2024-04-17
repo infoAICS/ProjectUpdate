@@ -1,3 +1,3 @@
 # ProjectUpdate
-[Observable](https://observablehq.com/d/b94a7aa963eb5dd6)
+[Observable]((https://observablehq.com/@unknowncoder-ws/project485))
 
